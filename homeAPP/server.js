@@ -14,7 +14,7 @@ app.use('/static', express.static(__dirname + '/dist/static'))
 
 
 
-app.use('/', express.static(path.join(__dirname, '16085')));
+app.use('/', express.static(path.join(__dirname, '16942')));
 
 // interface proxy
 app.use('/api', proxy({
@@ -26,7 +26,7 @@ app.use('/api', proxy({
     '^/api/': '/'
   }
 }));
-app.listen(16085, () => {
-  console.log('server start at 16085')
+app.listen(16942, () => {
+  console.log('server start at 16942')
 })
 module.exports = app
