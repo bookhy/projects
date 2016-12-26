@@ -1,9 +1,9 @@
 # huoseApp
 * 下载
-  - `git clone http://github.com/haocaiMP/hulishequ.git`
+  - `git clone http://github.com/bookhy/projects.git`
 
 * 进入
-  - `cd huolishequ`
+  - `cd bookhy`
 
 * 安装依赖
   - `npm install`
