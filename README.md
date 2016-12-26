@@ -1,4 +1,4 @@
-# huolishequ
+# huoseApp
 * 下载
   - `git clone http://github.com/haocaiMP/hulishequ.git`
 
@@ -23,7 +23,7 @@
     - `node app.js`
 
   - 访问
-    - `http://127.0.0.1:16085/index.html`
+    - `http://127.0.0.1:16942/index.html`
 
 * 项目描述
 
