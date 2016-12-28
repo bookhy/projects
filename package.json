@@ -1,7 +1,7 @@
 {
   "name": "projects",
   "version": "1.0.0",
-  "description": "* 下载\r   - `git clone http://github.com/haocaiMP/hulishequ.git`",
+  "description": "* 下载\r   - `git clone http://github.com/bookhy/projects.git`",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "http-proxy-middleware": "^0.17.2"
+    "http-proxy-middleware": "^0.17.3"
   },
   "devDependencies": {
     "browser-sync": "^2.18.1",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haocaiMP/huolishequ.git"
+    "url": "git+https://github.com/bookhy/projects.git"
   },
   "bugs": {
-    "url": "https://github.com/haocaiMP/huolishequ/issues"
+    "url": "https://github.com/bookhy/projects/issues"
   },
-  "homepage": "https://github.com/haocaiMP/huolishequ#readme"
+  "homepage": "https://github.com/bookhy/projects#readme"
 }
